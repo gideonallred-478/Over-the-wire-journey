@@ -2,9 +2,14 @@
 My solutions and learnings from completing the Bandit wargame.
 
 ## Progress
-- ✅ Levels 0-33 completed on 1/7/2026
+- ✅ Levels 0-33 started 12/3/2025 completed on 1/7/2026
 
-## Key Learnings
+Technical Skills Demonstrated:
+- Linux command line proficiency
+- Network protocol analysis (SSH, SSL/TLS)
+- Scripting and automation
+- Version control systems (Git)
+- Security analysis and penetration testing fundamentals
 
 ### Level Categories
 - **File Permissions & Commands** (Levels 1-5)
@@ -45,3 +50,6 @@ My solutions and learnings from completing the Bandit wargame.
 
 ## Reflections
 Completing all 33 levels taught me the importance of persistence, reading documentation, and thinking creatively about problem-solving in cybersecurity contexts.
+
+## Next steps
+- Capstone project using skills I've learned from the certificate and the ctfs
